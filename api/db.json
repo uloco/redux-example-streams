@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "adsfasdfa",
+      "description": "asdfasdfasdfaaaaaaaaaaaaaaaaaaa",
+      "id": 4,
+      "userId": "101745927143434292089"
+    },
+    {
+      "title": "fasdfasfdas",
+      "description": "asdfasdfasfdas",
+      "id": 5,
+      "userId": "101745927143434292089"
+    },
+    {
+      "title": "What's up",
+      "description": "hey there",
+      "id": 6,
+      "userId": "101745927143434292089"
+    },
+    {
+      "title": "Streaming keyboard science",
+      "description": "nerdy stuff with kbd",
+      "userId": "101745927143434292089",
+      "id": 9
+    }
+  ]
+}
